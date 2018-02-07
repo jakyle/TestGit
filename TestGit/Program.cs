@@ -10,8 +10,8 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            int ourNumber = 5;
-            string newWord = "Hi there";
+            int ourNumber = 50;
+            string newWord = "Hello out there";
 
             Console.WriteLine(ourNumber);
             Console.WriteLine(newWord);
